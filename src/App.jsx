@@ -1,8 +1,7 @@
-import Home from "./pages/Home";
-import ProductList from "./pages/ProductList";
+import Grabkart from "./Grabkart";
 
 const App = () => {
-  return <ProductList />;
+  return <Grabkart />;
 };
 
 export default App;
